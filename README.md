@@ -15,7 +15,7 @@
   
  📫 How to reach me: **nanda.jfa@gmail.com**
   
- ⚡ Fun fact: **I work with crafts. Know my work on [instagram @felice.kids](https://www.instagram.com/felice.kids/)**
+ ⚡ **I work with crafts. Know my work on [instagram @felice.kids](https://www.instagram.com/felice.kids/)**
   
 </div>
 
