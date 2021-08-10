@@ -9,7 +9,7 @@
   
   📍 living in São Paulo - BR
 
- 🌱 I’m currently learning **Shell, C, Java**
+ 🌱 I’m currently learning **Shell, C, Javascript**
   
  📫 How to reach me: **nanda.jfa@gmail.com**
   
