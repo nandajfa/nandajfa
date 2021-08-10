@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.snappea.com/tutorials-pt/wp-content/uploads/sites/27/2020/09/earphone-music.jpg" alt="nandajfa" /> </p>
+
 <h1 align="center">Hi 👋, I'm Jessica Fernanda</h1> 
 <h3 align="center">A developer student from Brazil</h3>
 <div align="center">
