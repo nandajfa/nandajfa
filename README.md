@@ -11,8 +11,6 @@
 
  🌱 I’m currently learning **Shell, C, Java**
   
- 🤔 I’m looking for help with **Hard skills**
-  
  📫 How to reach me: **nanda.jfa@gmail.com**
   
  ⚡ **I work with crafts. Know my work on [instagram @felice.kids](https://www.instagram.com/felice.kids/)**
