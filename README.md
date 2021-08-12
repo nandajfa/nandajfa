@@ -31,13 +31,12 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandajfa&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="nanda-C" height="30"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="nanda-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="nanda-CSS" height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="nanda-Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="right" alt="BMO" height="100" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
-</div>
+</div> <br />
 
-
-Thanks for visiting!
