@@ -1,6 +1,6 @@
 
-<h1 align="center">Oi 👋, Eu sou a Jessica Fernanda</h1> 
-<h3 align="center">Estudante de Engenharia de software na 42SP</h3>
+<h1 align="center">Hi 👋, I'm Jessica Fernanda</h1> 
+<h3 align="center">Software Engineering Student at 42SP</h3>
 <div align="center">
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
