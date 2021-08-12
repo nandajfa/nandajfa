@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jessica Fernanda</h1> 
-<h3 align="center">A developer student from Brazil</h3>
+<h3 align="center">Estudante de Engenharia de software na 42SP</h3>
 <div align="center">
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
@@ -31,6 +31,20 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&locale=en" alt="nandajfa" /></p>
+</div>
+  
+  
+<div>
+  <a href="https://github.com/nandajfa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandajfa&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="nanda-C" height="30"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="nanda-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="nanda-CSS" height="30"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="nanda-Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="right" alt="BMO" height="100" src="https://64.media.tumblr.com/tumblr_lwxdpiz2nL1r32wpdo1_400.gif">
 </div>
   
 Thanks for visiting!
