@@ -3,7 +3,9 @@
 <h3 align="center">Software Engineering Student at 42SP</h3>
 <div align="center">
   
+  
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
+  <img align="right" alt="nanda" height="160" width="160" src="https://cdn.discordapp.com/attachments/861798537502654485/875374825789607946/download20210804104627.png">
   
   <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
 
@@ -14,7 +16,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205//)](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)<br>
   
    <a href="https://instagram.com/felice.kids" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
   
 <div>
   <a href="https://github.com/nandajfa">
