@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jessica Fernanda</h1> 
+<h1 align="center">Oi 👋, Eu sou a Jessica Fernanda</h1> 
 <h3 align="center">Estudante de Engenharia de software na 42SP</h3>
 <div align="center">
   
