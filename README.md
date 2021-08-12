@@ -24,8 +24,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205//)](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
   
   
-<div align="center">
-  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)  
   
 <div>
