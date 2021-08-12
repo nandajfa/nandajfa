@@ -5,10 +5,12 @@
   
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
-  <img align="right" alt="nanda" height="160" width="160" src="https://cdn.discordapp.com/attachments/861798537502654485/875374825789607946/download20210804104627.png">
+  <img align="right" alt="nanda" height="160" width="160" src="https://cdn.discordapp.com/attachments/861798537502654485/875380304733429831/picasion.com_d93174d59e0a0d918ffd7d05244cc020.gif">
+  
+  ##
   
   <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
-
+  
 <h3 align="center">Connect with me:</h3>
   
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandajfa)](https://github.com/nandajfa)
