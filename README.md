@@ -9,7 +9,7 @@
   
   ##
   
-  <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=Basecamp)](https://github.com/JaeSeoKim/badge42)
+  <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   
 <h3 align="center">Connect with me:</h3>
   
