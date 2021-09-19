@@ -5,7 +5,7 @@
   
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
-  <img align="right" alt="nanda" height="160" width="155" src="https://media.discordapp.net/attachments/861798537502654485/889261029836615700/Webp.net-gifmaker.gif">
+  <img align="right" alt="nanda" height="160" width="160" src="https://media.discordapp.net/attachments/861798537502654485/889261029836615700/Webp.net-gifmaker.gif">
   
   ##
   
