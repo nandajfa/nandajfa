@@ -12,7 +12,7 @@
   <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   
   ### 42's Projects Already Graded 
-[![](./icons/libft.png)](https://https://github.com/nandajfa/libft)
+[![](./src/libft.png)](https://https://github.com/nandajfa/libft)
   
 <h3 align="center">Connect with me:</h3>
   
