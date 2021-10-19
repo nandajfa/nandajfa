@@ -11,6 +11,9 @@
   
   <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   
+  ### 42's Projects Already Graded 
+[![](./icons/libft.png)](https://github.com/psdiaspedro/libft-42Cursus)
+  
 <h3 align="center">Connect with me:</h3>
   
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandajfa)](https://github.com/nandajfa)
