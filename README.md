@@ -13,6 +13,7 @@
   
   ### 42's Projects Already Graded 
 [![](./src/libft.png)](https://github.com/nandajfa/libft)
+ [![](./src/get_next_line.png)](https://github.com/nandajfa/nandajfa/blob/main/src/get_next_line.png)
   
 <h3 align="center">Connect with me:</h3>
   
