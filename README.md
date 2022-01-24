@@ -1,22 +1,33 @@
 
-<h1 align="center">Hi 👋, I'm Jessica Fernanda</h1> 
-<h3 align="center">Software Engineering Student at 42SP</h3>
-<div align="center">
+<h2 >Hello 👋, I'm Jessica Fernanda, but please call me Nanda.</h2> 
+ <img align="right" alt="nanda" height="160" width="160" src="https://media.discordapp.net/attachments/861798537502654485/889262399541092372/Webp.net-gifmaker.gif">
+<p><em>Software Engineering Student from <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
   
+  🙋‍♀️  About Me
+    
+  * 🤓 always learning something new 
+  * 🎵 love music
+  * 🎸 play guitar
+  * 🙌 Working with handicraft
+  * 🤟 brazilian sign language
+  * 📚 reading a book
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
-  <img align="right" alt="nanda" height="160" width="160" src="https://media.discordapp.net/attachments/861798537502654485/889262399541092372/Webp.net-gifmaker.gif">
+
+  ##    
   
-  ##
-  
-  <br/>[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+<div align="center">  
+ 
+ <br/> [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   
   ### 42's Projects Already Graded 
 [![](./src/libft.png)](https://github.com/nandajfa/libft)
 [![](./src/get_next_line.png)](https://github.com/nandajfa/nandajfa/blob/main/src/get_next_line.png)
 [![](./src/ft_printfe.png)](https://github.com/nandajfa/nandajfa/blob/main/src/ft_printfe.png)
 [![](./src/born2beroote.png)](https://github.com/nandajfa/nandajfa/blob/main/src/born2beroote.png)  
- 
+ </div>
+  
+  <div align="center">  
   
 <h3 align="center">Connect with me:</h3>
   
@@ -26,11 +37,10 @@
   
    <a href="https://instagram.com/felice.kids" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-<div>
   <a href="https://github.com/nandajfa" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandajfa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
@@ -39,4 +49,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   
   ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+  
+  </div>
 
