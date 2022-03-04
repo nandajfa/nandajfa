@@ -21,11 +21,11 @@
  <br/> [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   
   ### 42's Projects Already Graded 
-[![](./src/libft.png)](https://github.com/nandajfa/libft)
-[![](./src/get_next_line.png)](https://github.com/nandajfa/nandajfa/blob/main/src/get_next_line.png)
-[![](./src/ft_printfe.png)](https://github.com/nandajfa/nandajfa/blob/main/src/ft_printfe.png)
-[![](./src/born2beroote.png)](https://github.com/nandajfa/nandajfa/blob/main/src/born2beroote.png) 
-[![](./src/so_longm.png)](https://github.com/nandajfa/nandajfa/blob/main/src/so_longm.png)  
+[![](./src/libft1.png)](https://github.com/nandajfa/libft)
+[![](./src/gnl.png)](https://github.com/nandajfa/get_next_line)
+[![](./src/ft_printfe.png)](https://github.com/nandajfa/ft_printf)
+[![](./src/born2beroote.png)](https://github.com/nandajfa/Born2beRoot) 
+[![](./src/so_longm.png)](https://github.com/nandajfa/so_long)  
  </div>
   
   <div align="center">  
