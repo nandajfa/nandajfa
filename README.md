@@ -1,5 +1,5 @@
 
-<h2 >Hello 👋, I'm Jessica Fernanda, but please call me Nanda.</h2> 
+<h2 >Hello 👋</h2> 
  <img align="right" alt="nanda" height="160" width="160" src="https://media.discordapp.net/attachments/861798537502654485/889262399541092372/Webp.net-gifmaker.gif">
 <p><em>Software Engineering Student from <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
   
