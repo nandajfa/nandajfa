@@ -23,7 +23,8 @@
 [![](./src/gnl.png)](https://github.com/nandajfa/get_next_line)
 [![](./src/ft_printfe.png)](https://github.com/nandajfa/ft_printf)
 [![](./src/born2beroote.png)](https://github.com/nandajfa/Born2beRoot) 
-[![](./src/so_longm.png)](https://github.com/nandajfa/so_long)  
+[![](./src/so_longm.png)](https://github.com/nandajfa/so_long)
+[![](./src/minitalkm.png)](https://github.com/nandajfa/minitalk)  
  </div>
   
   <div align="center">  
