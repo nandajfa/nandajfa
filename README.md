@@ -17,8 +17,6 @@
   ##    
   
 <div align="center">  
- 
- <br/> [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jefernan?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
   
   ### 42's Projects Already Graded 
 [![](./src/libft1.png)](https://github.com/nandajfa/libft)
