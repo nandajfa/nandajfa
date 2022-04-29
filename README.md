@@ -27,7 +27,11 @@
 [![](./src/minitalkm.png)](https://github.com/nandajfa/minitalk)  
  </div>
   
+ 
   <div align="center">  
+ 
+ [![jefernan's 42 stats](https://badge42.vercel.app/api/v2/cl2ksxapr001109ldkbdpi4zu/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+  
   
 <h3 align="center">Connect with me:</h3>
   
