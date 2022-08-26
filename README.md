@@ -4,12 +4,14 @@
 <p><em>Software Engineering Student from <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
   
   🙋‍♀️  About Me
-    
-  * 🤓 always learning something new 
+   
+  * 💻 I'm currently learning about C for the projects done at School 42.
+  * 🤓 always learning something new
   * 🎵 love music
   * 🎸 play guitar
   * 🙌 Working with handicraft
   * 🤟 brazilian sign language
+
   * 📚 reading a book
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
