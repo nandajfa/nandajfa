@@ -8,7 +8,6 @@
   * 💻 I'm currently learning about C for the projects done at School 42.
   * 🤓 always learning something new
   * 🎵 love music
-  * 🎸 play guitar
   * 🙌 Working with handicraft
   * 🤟 brazilian sign language
 
