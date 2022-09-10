@@ -28,6 +28,7 @@
 [![](./src/so_longm.png)](https://github.com/nandajfa/so_long)
 [![](./src/minitalkm.png)](https://github.com/nandajfa/minitalk)
 [![](./src/push.png)](https://github.com/nandajfa/push_swap)
+[![](./src/minishell.png)](https://github.com/nandajfa/minishell)
  </div>
   
  
