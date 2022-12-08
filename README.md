@@ -28,6 +28,7 @@
 [![](./src/minitalkm.png)](https://github.com/nandajfa/minitalk)
 [![](./src/push.png)](https://github.com/nandajfa/push_swap)
 [![](./src/minishell.png)](https://github.com/nandajfa/minishell)
+[![](./src/minishell.png)](https://github.com/nandajfa/nandajfa/blob/main/src/philos.png)
  </div>
   
  
