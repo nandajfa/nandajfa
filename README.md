@@ -9,7 +9,7 @@
   * 🤓 always learning something new
   * 🎵 love music
   * 🙌 Working with handicraft
-  * 🤟 brazilian sign language
+  * 🤟 love brazilian sign language
 
   * 📚 reading a book
   
