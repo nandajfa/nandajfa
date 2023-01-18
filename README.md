@@ -29,6 +29,7 @@
 [![](./src/push.png)](https://github.com/nandajfa/push_swap)
 [![](./src/minishell.png)](https://github.com/nandajfa/minishell)
 [![](./src/philos.png)](https://github.com/nandajfa/philo)
+[![](./src/net.png)](https://github.com/nandajfa/NetPractice)
  </div>
   
  
