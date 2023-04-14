@@ -30,6 +30,7 @@
 [![](./src/minishell.png)](https://github.com/nandajfa/minishell)
 [![](./src/philos.png)](https://github.com/nandajfa/philo)
 [![](./src/net.png)](https://github.com/nandajfa/NetPractice)
+[![](./src/cub3d.png)](https://github.com/nandajfa/cub3D)
  </div>
   
  
