@@ -19,18 +19,22 @@
   
 <div align="center">  
   
-  ### 42's Projects Already Graded 
-[![](./src/libft1.png)](https://github.com/nandajfa/libft)
-[![](./src/gnl.png)](https://github.com/nandajfa/get_next_line)
-[![](./src/ft_printfe.png)](https://github.com/nandajfa/ft_printf)
-[![](./src/born2beroote.png)](https://github.com/nandajfa/Born2beRoot) 
-[![](./src/so_longm.png)](https://github.com/nandajfa/so_long)
-[![](./src/minitalkm.png)](https://github.com/nandajfa/minitalk)
-[![](./src/push.png)](https://github.com/nandajfa/push_swap)
-[![](./src/minishell.png)](https://github.com/nandajfa/minishell)
-[![](./src/philos.png)](https://github.com/nandajfa/philo)
-[![](./src/net.png)](https://github.com/nandajfa/NetPractice)
-[![](./src/cub3d.png)](https://github.com/nandajfa/cub3D)
+<p align="center">
+ <h2>42's Projects Already Graded </h2>
+ <p>PHASE 1</p>
+ <a href="https://github.com/nandajfa/libft" target="_blank">  <img src="./src/libft1.png" height="100"></a>
+<a href="https://github.com/nandajfa/get_next_line" target="_blank"> <img src="./src/gnl.png" height="100"></a>
+<a href="https://github.com/nandajfa/ft_printf" target="_blank"> <img src="./src/ft_printfe.png" height="100"></a>
+<a href="https://github.com/nandajfa/Born2beRoot" target="_blank"> <img src="./src/born2beroote.png" height="100"></a>
+<a href="https://github.com/nandajfa/so_long" target="_blank"> <img src="./src/so_longm.png" height="100"></a>
+<a href="https://github.com/nandajfa/minitalk" target="_blank"> <img src="./src/minitalkm.png" height="100"></a>
+ <p>PHASE 2</p>
+<a href="https://github.com/nandajfa/push_swap" target="_blank">  <img src="./src/push.png" height="100"></a>
+<a href="https://github.com/nandajfa/minishell" target="_blank"> <img src="./src/minishell.png" height="100"></a>
+<a href="https://github.com/nandajfa/philo" target="_blank"> <img src="/src/philos.png" height="100"></a>
+<a href="https://github.com/nandajfa/NetPractice" target="_blank"> <img src="./src/net.png" height="100"></a>
+<a href="https://github.com/nandajfa/cub3D" target="_blank"> <img src="./src/cub3d.png" height="100"></a>
+</p>
  </div>
   
  
