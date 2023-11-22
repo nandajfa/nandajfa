@@ -6,10 +6,10 @@
   About Me:
    
   * 💻 I'm currently learning C and C++ language for projects done at 42sp.
-  * 🤓 always learning something new
-  * 🎵 love music
-  * 🙌 Working with handicraft
-  * 🤟 love brazilian sign language
+  * 📗 Also interested in: Javascript/Typescript - NodeJs - Nestjs.
+  * 🤓 Always learning something new.
+  * 🌏 Languages: Portuguese(native), English(A2), Brazilian Sign language(fluent)🤟
+  * 🙌 Working with handicraft.
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
 
