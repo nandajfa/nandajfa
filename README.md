@@ -1,7 +1,8 @@
 
 <h2 >Hello 👋</h2> 
  
-<p><em>Software Engineering Student at <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
+<p><em>Software engineer! <br>
+ <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
   
   About Me:
    
@@ -32,11 +33,15 @@
 <a href="https://github.com/nandajfa/philo" target="_blank"> <img src="/src/philos.png" height="100"></a>
 <a href="https://github.com/nandajfa/NetPractice" target="_blank"> <img src="./src/net.png" height="100"></a>
 <a href="https://github.com/nandajfa/cub3D" target="_blank"> <img src="./src/cub3d.png" height="100"></a>
-</p>
+
  <p>PHASE 3</p>
  <a href="https://github.com/nandajfa/CPP" target="_blank"><img src="./src/cpp.png" height="100"></a>
  <a href="https://github.com/nandajfa/inception" target="_blank"><img src="./src/inception.png" height="100"></a>
-  <a href="https://github.com/nandajfa/webserv" target="_blank"><img src="./src/webserv.png" height="100"></a>
+ <a href="https://github.com/nandajfa/webserv" target="_blank"><img src="./src/webserv.png" height="100"></a>
+ <a href="https://github.com/nandajfa/ft_transcendence" target="_blank"><img src="./src/transcendence.png" height="100"></a>
+
+<br><p>Graduated in software engineering</p>
+ <a href="https://github.com/nandajfa/ft_transcendence" target="_blank"><img src="./src/human.png" height="100"></a>
 
  </div>
   
