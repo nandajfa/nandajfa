@@ -1,76 +1,56 @@
-
-<h2 >Hello 👋</h2> 
- 
-<p><em>Software engineer! <br>
- <a href="https://www.42sp.org.br/">42 São Paulo</a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
-  
-  About Me:
-   
-  * 💻 I'm currently learning C and C++ language for projects done at 42sp.
-  * 📗 Also interested in: Javascript/Typescript - NodeJs - Nestjs.
-  * 🤓 Always learning something new.
-  * 🌏 Languages: Portuguese(native), English(A2), Brazilian Sign language(fluent)🤟
-  * 🙌 Working with handicraft.
-  
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
 
-  ##    
-  
-<div align="center">  
-  
-<p align="center">
- <h2>42's Projects Already Graded </h2>
- <p>PHASE 1</p>
- <a href="https://github.com/nandajfa/libft" target="_blank">  <img src="./src/libft1.png" height="100"></a>
-<a href="https://github.com/nandajfa/get_next_line" target="_blank"> <img src="./src/gnl.png" height="100"></a>
-<a href="https://github.com/nandajfa/ft_printf" target="_blank"> <img src="./src/ft_printfe.png" height="100"></a>
-<a href="https://github.com/nandajfa/Born2beRoot" target="_blank"> <img src="./src/born2beroote.png" height="100"></a>
-<a href="https://github.com/nandajfa/so_long" target="_blank"> <img src="./src/so_longm.png" height="100"></a>
-<a href="https://github.com/nandajfa/minitalk" target="_blank"> <img src="./src/minitalkm.png" height="100"></a>
- <p>PHASE 2</p>
-<a href="https://github.com/nandajfa/push_swap" target="_blank">  <img src="./src/push.png" height="100"></a>
-<a href="https://github.com/nandajfa/minishell" target="_blank"> <img src="./src/minishell.png" height="100"></a>
-<a href="https://github.com/nandajfa/philo" target="_blank"> <img src="/src/philos.png" height="100"></a>
-<a href="https://github.com/nandajfa/NetPractice" target="_blank"> <img src="./src/net.png" height="100"></a>
-<a href="https://github.com/nandajfa/cub3D" target="_blank"> <img src="./src/cub3d.png" height="100"></a>
-
- <p>PHASE 3</p>
- <a href="https://github.com/nandajfa/CPP" target="_blank"><img src="./src/cpp.png" height="100"></a>
- <a href="https://github.com/nandajfa/inception" target="_blank"><img src="./src/inception.png" height="100"></a>
- <a href="https://github.com/nandajfa/webserv" target="_blank"><img src="./src/webserv.png" height="100"></a>
- <a href="https://github.com/nandajfa/ft_transcendence" target="_blank"><img src="./src/transcendence.png" height="100"></a>
-
-<br><p>Graduated in software engineering</p>
- <a href="https://github.com/nandajfa/ft_transcendence" target="_blank"><img src="./src/human.png" height="100"></a>
-
- </div>
-  
+<h2 >Hi, I'm Nanda! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
  
-  <div align="center">  
- 
- [![jefernan's 42 stats](https://badge42.vercel.app/api/v2/cl2ksxapr001109ldkbdpi4zu/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-  
-  
-<h3 align="center">Connect with me:</h3>
-  
+<p><em>Graduated in software engineering at  
+ <a href="https://www.42sp.org.br/">42 São Paulo! </a><img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
+<img align="right" src="./src/human.png" height="150"/>
+
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandajfa)](https://github.com/nandajfa)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-programadora/)](https://www.linkedin.com/in/jessica-fernanda-programadora/)<br>
+
+
+<hr>
+
+  #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me... 
+
+```javascript
+const nanda = {
+   code: ["Javascript", "Typescript", "HTML", "CSS", "C", "C++"],
+
+   tools: ["React", "Node", "NestJs", "Jest", "Docker", "Swagger"],
+
+   languages: ["Portuguese(native)", "English(A2)", "Brazilian Sign language(fluent)"],
+
+   curiosities: [🙌 "Working with handicraft", 📗 "love books", 🎸 "play guitar"],
+
+   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+
+   Quote: "🤓 Always learning something new."
+
+}
+```
+
+ <br>
   
-  
+  <div align="center">
   <a href="https://github.com/nandajfa" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandajfa&layout=compact&langs_count=7&theme=dark"/>
+     <img  align="right"src="https://camo.githubusercontent.com/0ed1d94dd2d068989b9150c2844661da4ea10bd281a91ae2a38716dbc63de1b4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" alt="GIF" width="200" height="200">
+ </div>
 
-  
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> 
+<br>
+  <div align="center">
+
+<p > <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> 
 <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c" width="60" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a> 
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" height="30"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="jest" height="30"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
 
 
 
@@ -79,6 +59,8 @@
   
 ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
-  
   </div>
+
+  </div>
+
 
