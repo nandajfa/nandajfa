@@ -23,7 +23,7 @@ const nanda = {
 
    languages: ["Portuguese(native)", "English(A2)", "Brazilian Sign language(fluent)"],
 
-   curiosities: [🙌 "Working with handicraft", 📗 "love books", 🎸 "play guitar"],
+   curiosities: [🙌 "Working with handicraft", 📗 "Love reading books", 🎸 "Can play guitar"],
 
    challenge: "I am doing the #100DaysOfCode challenge focused on fullstack developer",
 
