@@ -25,7 +25,7 @@ const nanda = {
 
    curiosities: [🙌 "Working with handicraft", 📗 "love books", 🎸 "play guitar"],
 
-   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+   challenge: "I am doing the #100DaysOfCode challenge focused on fullstack developer",
 
    Quote: "🤓 Always learning something new."
 
@@ -41,7 +41,7 @@ const nanda = {
      <img  align="right"src="https://camo.githubusercontent.com/0ed1d94dd2d068989b9150c2844661da4ea10bd281a91ae2a38716dbc63de1b4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" alt="GIF" width="200" height="200">
  </div>
 
-<br>
+<br><br>
   <div align="center">
 
 <p > <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> 
