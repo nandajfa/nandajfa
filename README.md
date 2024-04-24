@@ -5,7 +5,8 @@
 <p><em>Graduated in software engineering at  
  <a href="https://www.42sp.org.br/">42 São Paulo </a>!<img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
  All projects developed during the course are available <a href="https://github.com/nandajfa/ft_cursus/blob/main/README.md">here </a>.
-<img align="right" src="./src/human.png" height="150"/>
+
+<a href="https://humancoders.com.br/"><img align="right" src="./src/human.png" height="150"/></a>
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandajfa)](https://github.com/nandajfa)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
