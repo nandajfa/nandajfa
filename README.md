@@ -29,7 +29,7 @@ const nanda = {
 
    challenge: "I am doing the #100DaysOfCode challenge focused on fullstack developer",
 
-   Quote: "🤓 Always learning something new."
+   Quote: "Even marathons start with one step."
 
 }
 ```
