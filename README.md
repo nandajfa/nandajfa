@@ -40,7 +40,7 @@ const nanda = {
   <a href="https://github.com/nandajfa" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandajfa&layout=compact&langs_count=7&theme=dark"/>
-     <img  align="right"src="https://camo.githubusercontent.com/0ed1d94dd2d068989b9150c2844661da4ea10bd281a91ae2a38716dbc63de1b4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" alt="GIF" width="200" height="200">
+     <img  align="right" src="https://github.com/nandajfa/nandajfa/blob/main/src/gif.gif" alt="GIF" width="200" height="200">
  </div>
 
 <br><br>
