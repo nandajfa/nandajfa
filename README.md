@@ -27,8 +27,6 @@ const nanda = {
 
    curiosities: [🙌 "Working with handicraft", 📗 "Love reading books", 🎸 "Can play guitar"],
 
-   challenge: "I am doing the #100DaysOfCode challenge focused on fullstack developer",
-
    Quote: "Even marathons start with one step."
 
 }
