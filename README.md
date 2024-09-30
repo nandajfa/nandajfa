@@ -1,6 +1,6 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandajfa&label=Profile%20views&color=0e75b6&style=flat" alt="nandajfa" /> </p>
 
-<h2 >Hi, I'm Nanda! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2 >Hi, I'm Nanda!</h2> 
  
 <p><em>Graduated in software engineering at  
  <a href="https://www.42sp.org.br/">42 São Paulo </a>!<img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
@@ -15,7 +15,7 @@
 
 <hr>
 
-  #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me... 
+  #### A little more about me... 
 
 ```javascript
 const nanda = {
