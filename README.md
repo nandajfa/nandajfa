@@ -2,11 +2,16 @@
 
 <h2 >Hi, I'm Nanda!</h2> 
  
-<p><em>Graduated in software engineering at  
+<p><em> 🎓 Graduated in software engineering at  
  <a href="https://www.42sp.org.br/">42 São Paulo </a>!<img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
  All projects developed during the course are available <a href="https://github.com/nandajfa/ft_cursus/blob/main/README.md">here </a>.
 
 <a href="https://humancoders.com.br/"><img align="right" src="./src/human.png" height="150"/></a>
+
+> "Even marathons start with one step"
+
+#### Let's Connect!
+
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandajfa)](https://github.com/nandajfa)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
@@ -17,19 +22,20 @@
 
   #### A little more about me... 
 
-```javascript
-const nanda = {
-   code: ["Javascript", "Typescript", "HTML", "CSS", "C", "C++"],
+```diff
+@@ Avoiding problems means avoiding knowledge! @@
 
-   tools: ["React", "Node", "NestJs", "Jest", "Docker", "Swagger"],
++  Brazilian Native 🇧🇷
++  Volunteer as a backend developer at Sou Junior Labs 🤝
++  Currently learning about automation and exploring chatbot development 🤖
++  Taking 'Curso.dev' by Filipe Deschamps, expanding my development skills 👩‍💻
++  English (A2) | Fluent in Brazilian Sign Language (LIBRAS) 🌍
 
-   languages: ["Portuguese(native)", "English(A2)", "Brazilian Sign language(fluent)"],
+! Guitar player 🎸
+! Technology enthusiast 💻
+! Book lover 📚
+! Craft lover 🧶
 
-   curiosities: [🙌 "Working with handicraft", 📗 "Love reading books", 🎸 "Can play guitar"],
-
-   Quote: "Even marathons start with one step."
-
-}
 ```
 
  <br>
@@ -44,12 +50,16 @@ const nanda = {
 <br><br>
   <div align="center">
 
+#### Technologies
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Tools & Frameworks
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -66,6 +76,7 @@ const nanda = {
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
  
   </div>
+
 
   </div>
 
