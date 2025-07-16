@@ -4,19 +4,28 @@
  
 <p><em> 🎓 Graduated in software engineering at  
  <a href="https://www.42sp.org.br/">42 São Paulo </a>!<img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"></em></p>
+ 
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+
  All projects developed during the course are available <a href="https://github.com/nandajfa/ft_cursus/blob/main/README.md">here </a>.
 
 <a href="https://humancoders.com.br/"><img align="right" src="./src/human.png" height="150"/></a>
-
-> "Even marathons start with one step"
+<br>
 
 #### Let's Connect!
 
 
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nandajfa)](https://github.com/nandajfa)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicafernanda-dev/)](https://www.linkedin.com/in/jessicafernanda-dev/)<br>
-
+ <div align="left">
+  <a href="https://www.linkedin.com/in/jessicafernanda-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  <a href="https://discord.com/users/803715137001226361" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 <hr>
 
@@ -37,15 +46,6 @@
 ! Craft lover 🧶
 
 ```
-
- <br>
-  
-  <div align="center">
-  <a href="https://github.com/nandajfa" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandajfa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandajfa&layout=compact&langs_count=7&theme=dark"/>
-     <img  align="right" src="https://github.com/nandajfa/nandajfa/blob/main/src/gif.gif" alt="GIF" width="200" height="200">
- </div>
 
 <br><br>
   <div align="center">
@@ -74,10 +74,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
- 
-  </div>
 
+ ###
 
-  </div>
+<br><br>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandajfa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandajfa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
