@@ -39,7 +39,6 @@
 @@ Avoiding problems means avoiding knowledge! @@
 
 +  Brazilian Native 🇧🇷
-+  Volunteer as a backend developer at Sou Junior Labs 🤝
 +  Currently learning about automation and exploring chatbot development 🤖
 +  Taking 'Curso.dev' by Filipe Deschamps, expanding my development skills 👩‍💻
 +  English (A2) | Fluent in Brazilian Sign Language (LIBRAS) 🌍
@@ -66,6 +65,7 @@
 #### Tools & Frameworks
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
